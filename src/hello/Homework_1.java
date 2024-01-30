@@ -6,6 +6,7 @@ public class Homework_1 {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World");
 		System.out.println("Abhi Pasupuleti. GitHub Username: abhinav_pasupuleti");
+		System.out.println("Aditya Ramakrishnan. Github Username: aditya-ramki04");
 	}
 
 }
